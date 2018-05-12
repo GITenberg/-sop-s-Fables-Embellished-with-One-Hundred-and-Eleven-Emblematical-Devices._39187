@@ -1,0 +1,39 @@
+_repo: -sop-s-Fables-Embellished-with-One-Hundred-and-Eleven-Emblematical-Devices._39187
+_version: 0.1.0
+alternative_title: Aesop's Fables, Embellished with One Hundred and Eleven Emblematical
+  Devices
+contributor:
+  translator:
+    agent_name: Croxall, Samuel
+    aliases:
+    - Croxall, S. (Samuel)
+    - Ironside, Nestor
+    deathdate: 1752
+    gutenberg_agent_id: '39843'
+    url: http://www.gutenberg.org/2009/agents/39843
+covers:
+- cover_type: archival
+  image_path: 39187-h/images/i_front_cover.jpg
+creator:
+  author:
+    agent_name: Aesop
+    alias: Æsop
+    gutenberg_agent_id: '18'
+    url: http://www.gutenberg.org/2009/agents/18
+    wikipedia: http://en.wikipedia.org/wiki/Aesop
+description: ''
+gutenberg_issued: '2012-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+title: Æsop's Fables, Embellished with One Hundred and Eleven Emblematical Devices.
+url: http://www.gutenberg.org/ebooks/39187
