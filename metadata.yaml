@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/18
     wikipedia: http://en.wikipedia.org/wiki/Aesop
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39187#-sop-s-Fables-Embellished-with-One-Hundred-and-Eleven-Emblematical-Devices.
 gutenberg_issued: '2012-03-18'
 gutenberg_type: Text
 identifiers:
